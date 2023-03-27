@@ -1,5 +1,7 @@
 # websocket_testing
 
+[Video demonstration](https://sample.asuscomm.com/websockets/index.php)
+
 This is a fully working, but very basic websocket-based chat program. This was created as part of a project to learn about sockets.
 
 To use this, download the files to your local file system, then run the following from the appropriate working folder in your command line:
